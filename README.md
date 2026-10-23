@@ -4,8 +4,8 @@
 
 - 🎓 Engineering student at Velammal Engineering College, Chennai (Anna University)
 - 🛡️ Interested in **Cybersecurity** and **Competitive Programming**
-- 🚩 I take part in **CTF competitions** — boroCTF, HackQuest, Into the Void
-- 🐧 Daily driver: Kali Linux (dual-boot) on an ASUS TUF A15
+- 🚩 I take part in **CTF competitions** — boroCTF, HackQuest, Into the Void , Cyber Quest , snipers International CTF, Xploitx 2.0 Beta 24hrs CTF
+- 🐧 Daily driver: Kali Linux (dual-boot) on an ASUS TUF F16
 - 🌱 Currently sharpening skills in C/C++, Python, and pentesting tools
 - 📫 Reach me at: **esakkidharan08@gmail.com**
 
