@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="284" viewBox="0 0 860 284" role="img" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+
+<defs><pattern id="ct_g" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#00E5FF" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern></defs>
+<defs><filter id="ct_glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="3.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter></defs>
+<rect x="0.5" y="0.5" width="859" height="283" rx="12" fill="#0A0E14" stroke="#1F2A37"/>
+<rect x="1.5" y="37.5" width="857" height="245" rx="10" fill="url(#ct_g)"/>
+<circle cx="30" cy="18" r="5.5" fill="#FF5F56"/><circle cx="52" cy="18" r="5.5" fill="#FFBD2E"/><circle cx="74" cy="18" r="5.5" fill="#27C93F"/>
+<text x="430" y="22" font-size="12" fill="#7D8590" text-anchor="middle" letter-spacing="1">dharan@kali: ~/ctf — zsh</text>
+<line x1="0.5" x2="859.5" y1="36.5" y2="36.5" stroke="#1F2A37"/>
+<text x="36" y="74" font-size="14"><tspan fill="#00FF9C">$</tspan><tspan fill="#E6EDF3" dx="8">./ctf_log --all</tspan></text>
+<text x="824" y="74" font-size="13" fill="#7D8590" text-anchor="end"><tspan fill="#00FF9C" font-weight="700">6</tspan> ENGAGEMENTS</text>
+<g><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.0375;0.0875;1" values="0;0;1;1"/>
+      <rect x="30" y="104" width="254" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="30" y="104" width="3" height="62" rx="1.5" fill="#00FF9C" opacity="0.85"/>
+      <path d="M50 117 v36" stroke="#7D8590" stroke-width="2" stroke-linecap="round"/>
+      <path d="M52 118 l14 4.5 l-14 4.5 z" fill="#00FF9C">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.40s" repeatCount="indefinite"/>
+      </path>
+      <text x="76" y="131" font-size="12" font-weight="700" fill="#E6EDF3">boroCTF</text>
+      <text x="76" y="150" font-size="10" fill="#7D8590" letter-spacing="1.4">#01 · PARTICIPATED</text>
+    </g>
+<g><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.0550;0.1050;1" values="0;0;1;1"/>
+      <rect x="298" y="104" width="254" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="298" y="104" width="3" height="62" rx="1.5" fill="#00E5FF" opacity="0.85"/>
+      <path d="M318 117 v36" stroke="#7D8590" stroke-width="2" stroke-linecap="round"/>
+      <path d="M320 118 l14 4.5 l-14 4.5 z" fill="#00E5FF">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.75s" repeatCount="indefinite"/>
+      </path>
+      <text x="344" y="131" font-size="12" font-weight="700" fill="#E6EDF3">HackQuest</text>
+      <text x="344" y="150" font-size="10" fill="#7D8590" letter-spacing="1.4">#02 · PARTICIPATED</text>
+    </g>
+<g><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.0725;0.1225;1" values="0;0;1;1"/>
+      <rect x="566" y="104" width="254" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="566" y="104" width="3" height="62" rx="1.5" fill="#A855F7" opacity="0.85"/>
+      <path d="M586 117 v36" stroke="#7D8590" stroke-width="2" stroke-linecap="round"/>
+      <path d="M588 118 l14 4.5 l-14 4.5 z" fill="#A855F7">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3.10s" repeatCount="indefinite"/>
+      </path>
+      <text x="612" y="131" font-size="12" font-weight="700" fill="#E6EDF3">Into the Void</text>
+      <text x="612" y="150" font-size="10" fill="#7D8590" letter-spacing="1.4">#03 · PARTICIPATED</text>
+    </g>
+<g><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.0900;0.1400;1" values="0;0;1;1"/>
+      <rect x="30" y="178" width="254" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="30" y="178" width="3" height="62" rx="1.5" fill="#00FF9C" opacity="0.85"/>
+      <path d="M50 191 v36" stroke="#7D8590" stroke-width="2" stroke-linecap="round"/>
+      <path d="M52 192 l14 4.5 l-14 4.5 z" fill="#00FF9C">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3.45s" repeatCount="indefinite"/>
+      </path>
+      <text x="76" y="205" font-size="12" font-weight="700" fill="#E6EDF3">Cyber Quest</text>
+      <text x="76" y="224" font-size="10" fill="#7D8590" letter-spacing="1.4">#04 · PARTICIPATED</text>
+    </g>
+<g><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.1075;0.1575;1" values="0;0;1;1"/>
+      <rect x="298" y="178" width="254" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="298" y="178" width="3" height="62" rx="1.5" fill="#00E5FF" opacity="0.85"/>
+      <path d="M318 191 v36" stroke="#7D8590" stroke-width="2" stroke-linecap="round"/>
+      <path d="M320 192 l14 4.5 l-14 4.5 z" fill="#00E5FF">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3.80s" repeatCount="indefinite"/>
+      </path>
+      <text x="344" y="205" font-size="12" font-weight="700" fill="#E6EDF3">Snipers International CTF</text>
+      <text x="344" y="224" font-size="10" fill="#7D8590" letter-spacing="1.4">#05 · PARTICIPATED</text>
+    </g>
+<g><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.1250;0.1750;1" values="0;0;1;1"/>
+      <rect x="566" y="178" width="254" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="566" y="178" width="3" height="62" rx="1.5" fill="#A855F7" opacity="0.85"/>
+      <path d="M586 191 v36" stroke="#7D8590" stroke-width="2" stroke-linecap="round"/>
+      <path d="M588 192 l14 4.5 l-14 4.5 z" fill="#A855F7">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="4.15s" repeatCount="indefinite"/>
+      </path>
+      <text x="612" y="205" font-size="12" font-weight="700" fill="#E6EDF3">XploitX 2.0 · 24hr Beta</text>
+      <text x="612" y="224" font-size="10" fill="#7D8590" letter-spacing="1.4">#06 · PARTICIPATED</text>
+    </g>
+</svg>

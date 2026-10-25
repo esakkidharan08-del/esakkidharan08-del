@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" role="img" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+
+<defs><pattern id="wh_g" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#00E5FF" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern></defs>
+<defs><filter id="wh_glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="3.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter></defs>
+<rect x="0.5" y="0.5" width="859" height="339" rx="12" fill="#0A0E14" stroke="#1F2A37"/>
+<rect x="1.5" y="37.5" width="857" height="301" rx="10" fill="url(#wh_g)"/>
+<circle cx="30" cy="18" r="5.5" fill="#FF5F56"/><circle cx="52" cy="18" r="5.5" fill="#FFBD2E"/><circle cx="74" cy="18" r="5.5" fill="#27C93F"/>
+<text x="430" y="22" font-size="12" fill="#7D8590" text-anchor="middle" letter-spacing="1">dharan@kali: ~ — whoami</text>
+<line x1="0.5" x2="859.5" y1="36.5" y2="36.5" stroke="#1F2A37"/>
+<text x="36" y="78" font-size="15" fill="#00FF9C">$</text>
+<text x="36" y="146" font-size="15" fill="#00FF9C">$</text>
+<clipPath id="wc1"><rect x="58" y="65" width="62" height="20" rx="1">
+    <animate attributeName="width" dur="8s" begin="0s" fill="freeze" repeatCount="1"
+      keyTimes="0;0.0195;0.0266;0.0336;0.0406;0.0477;0.0547;0.0617;0.0688;0.0758;0.0828;0.0898;0.0969;0.1039;0.1109;0.1180;0.1250;1" values="0;3.9;7.8;11.6;15.5;19.4;23.3;27.1;31.0;34.9;38.8;42.6;46.5;50.4;54.3;58.1;62.0;62.0"/>
+  </rect></clipPath>
+<g clip-path="url(#wc1)"><text x="58" y="78" font-size="15" fill="#E6EDF3">whoami</text></g>
+<text x="58" y="112" font-size="14" fill="#E6EDF3"><tspan font-weight="700">esakkidharan08</tspan><tspan fill="#7D8590"> :: </tspan><tspan fill="#00FF9C" font-weight="700">alias _DHARAN_</tspan><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.1688;0.2188;1" values="0;0;1;1"/></text>
+<clipPath id="wc2"><rect x="58" y="133" width="164" height="20" rx="1">
+    <animate attributeName="width" dur="8s" begin="0s" fill="freeze" repeatCount="1"
+      keyTimes="0;0.2977;0.3078;0.3180;0.3281;0.3383;0.3484;0.3586;0.3688;0.3789;0.3891;0.3992;0.4094;0.4195;0.4297;0.4398;0.4500;1" values="0;10.3;20.5;30.8;41.0;51.3;61.5;71.8;82.0;92.3;102.5;112.8;123.0;133.3;143.5;153.8;164.0;164.0"/>
+  </rect></clipPath>
+<g clip-path="url(#wc2)"><text x="58" y="146" font-size="15" fill="#E6EDF3">cat ~/profile.txt</text></g>
+<text x="58" y="186" font-size="13.5"><tspan fill="#A855F7" font-weight="700">role:</tspan><tspan dx="10" fill="#C9D1D9">Engineering Student · Velammal Engineering College, Chennai</tspan><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.4875;0.5375;1" values="0;0;1;1"/></text>
+<text x="58" y="216" font-size="13.5"><tspan fill="#A855F7" font-weight="700">interests:</tspan><tspan dx="10" fill="#C9D1D9">cybersecurity · competitive programming · linux</tspan><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.5400;0.5900;1" values="0;0;1;1"/></text>
+<text x="58" y="246" font-size="13.5"><tspan fill="#A855F7" font-weight="700">building:</tspan><tspan dx="10" fill="#C9D1D9">AI resume screener · LinuxDocs · StreetSense</tspan><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.5925;0.6425;1" values="0;0;1;1"/></text>
+<text x="58" y="276" font-size="13.5"><tspan fill="#A855F7" font-weight="700">learning:</tspan><tspan dx="10" fill="#C9D1D9">C/C++ · Python · pentesting tools</tspan><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.6450;0.6950;1" values="0;0;1;1"/></text>
+<text x="58" y="306" font-size="13.5"><tspan fill="#A855F7" font-weight="700">motto:</tspan><tspan dx="10" fill="#C9D1D9">break it to understand how to defend it</tspan><animate attributeName="opacity" dur="8s" begin="0s" fill="freeze" repeatCount="1" keyTimes="0;0.6975;0.7475;1" values="0;0;1;1"/></text>
+<text x="36" y="336" font-size="15" fill="#00FF9C">$</text>
+<rect x="58" y="322" width="10" height="17" fill="#00FF9C">
+  <animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1.05s" repeatCount="indefinite"/>
+</rect>
+</svg>
